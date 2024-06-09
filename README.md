@@ -13,4 +13,7 @@ I wanted to make my custom SteamOS (based on NixOS) have the ability to stream s
 
 - I was having a lot of trouble getting stuff work consistently when trying to run streaming on my Steam box. The easiest way to get a clean environment is a Nix flake. 
 
+# Jellyfin
+
+This is currently pointed to my router directly. You might need to edit the Flake to point to whatever IP address/domain your Jellyfin lives on. 
 
